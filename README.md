@@ -6,13 +6,13 @@
   
 # Ambiente de Desenvolvimento 
  O programa foi desenvolvido utilizando:
- 	- Android Studio 4
-  - AndroidX
-	- Retrofit 2.9
-  - Glide 4.11.
-  - SwipeRefreshLayout 1.1
-  - RecyclerView 1.1
-  - CardView 1.0.0
+ - Android Studio 4
+ - AndroidX
+ - Retrofit 2.9
+ - Glide 4.11.
+ - SwipeRefreshLayout 1.1
+ - RecyclerView 1.1
+ - CardView 1.0.0
 
 # Referências
 	Manual da API
